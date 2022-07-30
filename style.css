@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'ballpark';
+    src: url(src/polices/ballpark.eot) format(eot);
+    src: url(src/polices/ballpark.svg) format(svg);
+    src: url(src/polices/ballpark.ttf) format(ttf);
+    src: url(src/polices/ballpark.woff) format(woff);
+}
+
+body {
+    margin : 0;
+}
+
+header {
+    background-color: #fff7dd;
+    border-bottom: 3px solid grey;
+    padding : 10px 20px;
+}
+
+.titre-logo {
+    font-family: 'ballpark';
+}
+
+.image {
+    background-color: #fff7dd
+}
+
+.image img {
+    padding : 10px 20px;
+    width: 100%;
+}
+
+
+
+
