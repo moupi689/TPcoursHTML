@@ -379,5 +379,43 @@ header h2
     {
         text-align: center;
     }
+
+    footer{
+        flex-direction: column;
+    }
+
+    #tweet
+{
+    width: auto;
+}
+
+#mes_photos
+{
+    width: auto;
+}
+
+#mes_amis
+{
+    width: auto;
+}
+
+footer p, footer ul
+{
+    font-size: 2em;
+}
+
+footer h1
+{
+    font-size: 3em;
+}
+
+#mes_photos img
+{
+    border: 1px solid #181818;
+    width: 200px;
+    height: 200px;
+    margin-right: 2px;
+}
+
 }
 
